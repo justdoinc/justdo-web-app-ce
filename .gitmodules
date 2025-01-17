@@ -1,0 +1,3 @@
+[submodule "modules/justdo-packages"]
+	path = modules/justdo-packages
+	url = git@github.com:justdoinc/justdo-packages.git

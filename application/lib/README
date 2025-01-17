@@ -1,0 +1,4 @@
+The lib folder is structured in a way that guarentees files load order.
+
+`client` and `server` are the only folder without preceding order number due to
+the special meaning of their name in Meteor

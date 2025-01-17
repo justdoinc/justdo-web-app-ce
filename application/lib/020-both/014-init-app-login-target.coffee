@@ -1,0 +1,1 @@
+../../../modules/justdo-packages/shared-gists/lib/both/init-app-login-target.coffee
