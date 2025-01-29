@@ -1,0 +1,1 @@
+../../../modules/justdo-packages/shared-gists/packages-configuration/meteor-accounts.coffee

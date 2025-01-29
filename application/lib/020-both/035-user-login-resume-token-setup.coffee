@@ -1,0 +1,1 @@
+../../../modules/justdo-packages/shared-gists/lib/both/user-login-resume-token-setup.coffee

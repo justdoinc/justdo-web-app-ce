@@ -1,0 +1,1 @@
+../../../modules/justdo-packages/shared-gists/lib/server/common-auto-publish.coffee

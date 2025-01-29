@@ -1,0 +1,7 @@
+<template name="display_name_with_graphic_unverified_warning">
+  {{#if $not isUserEmailsVerified}}
+    <span class="unverified-email-warn" title="Unverified Email">
+      <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+    </span>
+  {{/if}} {{displayName}}
+</template>

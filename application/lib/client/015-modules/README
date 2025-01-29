@@ -1,0 +1,12 @@
+Modules
+=======
+
+Modules serves as a mean to organize our app code by functionality segments.
+
+Modules should be viewed as an entity in the middle between Meteor Packages and application code. Allowing some degree of control over logic load order but still
+highly integrated into the application.
+
+Use this folder to initiate modules and to hold logic that you need available on
+startup in any depth of the application client code tree.
+
+**Augmenting modules with functionality in the application level is allowed.**
