@@ -1,3 +1,12 @@
+2025.03.05, Version 5.8.3
+
+* Publish justdo_user_active_position.hide_user_active_position to user document #17978
+
+Prepares for a new feature that lets environments show which users are online. This field
+allows users to opt out of sharing their presence with others.
+
+* Improvements to admin page #17980
+
 2025.02.19, Version 5.8.2
 
 * Improvements to admin page #17969
