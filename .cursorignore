@@ -1,0 +1,10 @@
+# Packages are sym-links to the submodules
+application/packages
+
+application/.meteor
+
+application/node_modules
+
+*.i18n.json
+
+!*en.i18n.json
