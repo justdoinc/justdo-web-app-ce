@@ -29,6 +29,8 @@ Meteor.publish null, ->
         "promoters.ui": 1
 
         "promoters.promoter_description": 1
+
+        "justdo_user_active_position.hide_user_active_position": 1
       },
       include_profile_fields: false
     }
