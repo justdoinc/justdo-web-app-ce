@@ -1,7 +1,7 @@
 # Packages are sym-links to the submodules
 application/packages
 
-application/.meteor
+application/.meteor/local
 
 application/node_modules
 

@@ -169,5 +169,7 @@ base64@1.0.12
 justdoinc:justdo-projects-templates
 justdoinc:justdo-new-project-templates
 justdoinc:justdo-i18n
+justdoinc:justdo-ai-kit
 rzymek:moment-locales
+meteortesting:mocha
 justdoinc:justdo-permissions

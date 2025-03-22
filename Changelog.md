@@ -1,3 +1,22 @@
+2025.03.22, Version 5.8.4
+
+LOW LEVEL CHANGES
+
+* Update npm packages and dependencies to fix vulnerabilities
+
+* Update bash shebang in shell scripts to use /usr/bin/env bash for cross-platform compatibility
+
+* Add test infrastructure improvements with meteortesting:mocha package and chai dev dependency
+
+* justdo-packages: Reorganize i18n configuration files (convert extra-i18n-instructions.txt to _i18n-conf.json)
+
+* justdo-packages: grid-data: Fix a bug in bulkAddSibling that results in incorrect "order" in inserted tasks
+
+* justdo-packages: Integration of justdo-ai-kit into the core packages with cleanup
+
+* Developer experience improvements - Updated .cursorignore to exclude only .meteor/local 
+  to allow agent to read project and package metadata
+
 2025.03.05, Version 5.8.3
 
 * Publish justdo_user_active_position.hide_user_active_position to user document #17978

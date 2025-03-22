@@ -5,24 +5,30 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "@babel/runtime": "^7.22.15",
-    "aws-sdk": "^2.1691.0",
+    "@babel/runtime": "^7.26.10",
+    "aws-sdk": "^2.1692.0",
     "babel-runtime": "^6.20.0",
     "bcrypt": "^5.1.1",
-    "bluebird": "^3.4.7",
+    "bluebird": "^3.7.2",
     "body-parser": "^1.20.3",
-    "bson-to-json": "https://github.com/justdoinc/bson-to-json#v2.0.0",
+    "bson-to-json": "git+https://github.com/justdoinc/bson-to-json.git#v2.0.0",
     "colors": "~1.1.2",
-    "core-js": "~2.6.5",
+    "core-js": "^2.6.12",
     "fcm-push": "^1.1.3",
     "fibers": "^5.0.3",
     "googleapis": "^144.0.0",
     "jszip": "^3.10.1",
     "lodash": "^4.17.21",
-    "mathjs": "^13.2.0",
-    "meteor-node-stubs": "^1.2.12",
+    "mathjs": "^13.2.3",
+    "meteor-node-stubs": "^1.2.13",
     "mysql": "^2.18.1",
     "webfontloader": "https://registry.npmjs.org/webfontloader/-/webfontloader-1.6.28.tgz",
     "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "install": "^0.13.0",
+    "npm": "^11.2.0",
+    "string-width": "^4.2.3"
   }
 }

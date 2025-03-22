@@ -86,6 +86,7 @@ justdoinc:hash-requests-handler@1.0.0
 justdoinc:jd-api@1.0.0
 justdoinc:jquery-migrate@1.0.0
 justdoinc:justdo-accounts@1.0.0
+justdoinc:justdo-ai-kit@1.0.0
 justdoinc:justdo-analytics@1.0.0
 justdoinc:justdo-analytics-core-logs@1.0.0
 justdoinc:justdo-app-high-contrast@1.0.0
@@ -193,6 +194,9 @@ meteorspark:fast-render@2.16.3
 meteorspark:json-sortify@0.1.0
 meteorspark:logger@0.3.0
 meteorspark:util@0.2.0
+meteortesting:browser-tests@1.7.0
+meteortesting:mocha@3.2.0
+meteortesting:mocha-core@8.2.0
 minifier-css@1.6.4
 minifier-js@2.8.0
 minimongo@1.9.4
